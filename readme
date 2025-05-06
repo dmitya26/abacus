@@ -1,0 +1,7 @@
+abacus: "what if UNIX had a calculator"
+
+Build
+`make build`
+
+---------------------------
+In an attempt to not factor too early, the true end goal of this project is still not fully realized. At the moment, it contains a simple math expression parser and interpreter, that is interfaced via REPL.
